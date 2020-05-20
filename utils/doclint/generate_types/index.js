@@ -19,7 +19,6 @@ const objectDefinitions = [];
     path.join(__dirname, '..', '..').length
   )}
 import { ChildProcess } from 'child_process';
-import { EventEmitter } from 'events';
 /**
  * Can be converted to JSON
  */
